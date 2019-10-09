@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is created under Google Udacity Android Developer Nanodegree to
-show the details of each sandwich displayed in the app once it is selected.
+show the details of each sandwich displayed in the app once it is selected which includes its (images, names, description, place of origin and ingredients)
 
 ## Project Objectives
 Building a layout and populating its fields from data received as JSON and parsing 
