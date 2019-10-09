@@ -12,6 +12,6 @@ understanding on how it is processed.
 ## Contact Info
 You can connect with me through:
 
-ramyhelow97@gmail.com \n
-https://linkedin.com/in/ramyhelow/ \n
-https://twitter.com/ramyhelow \n
+ramyhelow97@gmail.com  
+https://linkedin.com/in/ramyhelow/   
+https://twitter.com/ramyhelow    
